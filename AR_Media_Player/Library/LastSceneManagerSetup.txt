@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Media_Player_Scene.unity
+  isLoaded: 1
+  isActive: 1
